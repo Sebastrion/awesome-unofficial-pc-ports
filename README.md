@@ -17,7 +17,11 @@ You can also easily install Mods, Texture etc.
 - https://vanilla.sm64js.com/ -Java Port of Mario 64 with MMO like Multiplayer
 
 ### The Legend of Zelda: Ocarina of Time 
-- https://github.com/zeldaret/oot -Decompilation of Zelda Ocarina of Time
-
 - ⭐https://github.com/Harbour Masters/Ship -User friendly installer with GUI.
 You can also easily install Mods.
+
+- https://github.com/zeldaret/oot -Decompilation of Zelda Ocarina of Time.
+
+### The Legend of Zelda: A Link to the Past
+- ⭐https://github.com/Harbour Masters/Ship -User friendly installer with GUI.
+You can also easily install Mods, Texture Packs etc.
