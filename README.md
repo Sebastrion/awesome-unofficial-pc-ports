@@ -1,5 +1,5 @@
 #awesome-unofficial-pc-ports
-A curated list of awesome unoffical PC Port
+A curated list of awesome unoffical PC Port.
 
 # Nintendo Games
 ### Super Mario 64
@@ -26,4 +26,10 @@ You can also easily install Mods.
 - ⭐https://github.com/RadzPrower/Zelda-3-Launcher -User friendly installer with GUI.
 You can also easily install Mods, Texture Packs etc.
 
-- https://github.com/snesrev/zelda3 -Decompilation of Zelda A Link to the Past
+- https://github.com/snesrev/zelda3 -Decompilation of Zelda A Link to the Past.
+
+
+# PlayStation Games
+### Jak and Daxter
+https://github.com/open-goal/jak-project#required-software -User friendly installer with GUI.
+- ⭐You can also easily install Mods, Texture Packs etc.
