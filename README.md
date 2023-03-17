@@ -5,7 +5,7 @@ A curated list of awesome unoffical PC Port.
 
 # Nintendo Games
 ### Super Mario 64
-- ⭐ [sm64pcbuilder2](https://sm64pc.info/sm64pcbuilder2/) -User friendly installer with GUI that allows installing different Versions.
+- ⭐ [sm64pcbuilder2](https://sm64pc.info/sm64pcbuilder2/) -User friendly installer with GUI that allows installing different Versions.  
 You can easily install Mods, Texture Packs etc.
   - [Simple Tutorial how to install sm64pcbuilder2 on YouTube](https://youtu.be/vwmkMjYFO-k)
 
@@ -23,7 +23,7 @@ It comes with quality of life improvement's, 60FPS, Improved camera, Extended mo
 -  [sm64js](https://vanilla.sm64js.com/) -Java Port of Mario 64 with MMO like Multiplayer working in your Browser
 
 ### The Legend of Zelda: Ocarina of Time 
-- ⭐[Ship of Harkinian](https://github.com/HarbourMasters/Shipwright)-User friendly installer with GUI.
+- ⭐[Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) -User friendly installer with GUI.
 You can easily install Mods.
   - [Simple Tutorial how to install Ship of Harkinian on YouTube](https://youtu.be/IK4RzYLuFZM)
 
