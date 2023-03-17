@@ -1,7 +1,7 @@
 # awesome-unofficial-pc-ports
-A curated list of awesome unoffical PC Port.
+A curated list of awesome unofficial PC Port.
 
-⭐ = The most userfriendly Version, this is propably the Version you are looking for.
+⭐ = The most user-friendly Version, this is probably the Version you are looking for.
 
 # Nintendo Games
 ### Super Mario 64
