@@ -43,4 +43,4 @@ You can also easily install Mods, Texture Packs etc.
   - [Simple Tutorial how to install OpenGoal on YouTube](https://youtu.be/vwmkMjYFO-k)
 
 ### Driver 2
-- ⭐[REDRIVER2](https://github.com/OpenDriver2/REDRIVER2)
+- ⭐[REDRIVER2](https://github.com/OpenDriver2/REDRIVER2)-User friendly installer with GUI.You can also install Mods, Texture Packs etc.
