@@ -29,7 +29,7 @@ You can easily install Mods.
 - [oot](https://github.com/zeldaret/oot) -Decompilation of Zelda Ocarina of Time.
 
 ### The Legend of Zelda: A Link to the Past
-- ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can also easily install Mods, Texture Packs etc.
+- ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
   - [Simple Tutorial how to install Ship of Harkinian on YouTube](https://youtu.be/fGNLr0cGBP4)
 
 - [zelda3](https://github.com/snesrev/zelda3) -Decompilation of Zelda A Link to the Past.
@@ -38,7 +38,7 @@ You can easily install Mods.
 # PlayStation Games
 ### Jak and Daxter
 
-- ⭐[OpenGoal/jak-project](https://github.com/open-goal/jak-project) -User friendly installer with GUI. You can also easily install Mods, Texture Packs etc.
+- ⭐[OpenGoal/jak-project](https://github.com/open-goal/jak-project) -User friendly installer with GUI. You can also install Mods, Texture Packs etc.
   - [Simple Tutorial how to install OpenGoal on YouTube](https://youtu.be/vwmkMjYFO-k)
 
 ### Driver 2
