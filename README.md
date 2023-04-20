@@ -21,7 +21,7 @@ It comes with quality of life improvement's, 60FPS, Improved camera, Extended mo
 
 - [sm64js](https://vanilla.sm64js.com/) -Java Port of Mario 64 with MMO like Multiplayer working in your Browser
 
-- [sm64rt](https://github.com/DarioSamo/sm64rt) -Port that adds raytracing support.
+- [sm64rt](https://github.com/DarioSamo/sm64rt) -Port that adds raytracing support. (Also included in sm64pcbuilder2)
 
 ### The Legend of Zelda: Ocarina of Time 
 - ⭐[Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) -User friendly installer with GUI.
