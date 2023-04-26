@@ -36,6 +36,8 @@ You can easily install Mods.
 
 - [zelda3](https://github.com/snesrev/zelda3) -Decompilation of Zelda A Link to the Past.
 
+### Cave Story+ (Original Version, Steam Version, Nintendo Switch Version (Switch Version has Co-op, new Soundtrack and additional challenge mode)
+- ⭐[doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) -Just an exe file which needs to be dropped in the Cave Story folder.
 
 # PlayStation Games
 ### Jak and Daxter
