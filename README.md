@@ -48,3 +48,7 @@ You can easily install Mods.
 ### Driver 2
 - ⭐[REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) -User friendly installer with GUI.You can also install Mods, Texture Packs etc.
   - [Simple Tutorial how to install REDRIVER2 on YouTube](https://youtu.be/XHAnxbYO3bw)
+
+### Legend of Dragoon
+- ⭐[Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) -A Launcher where you need to put Disc 1 to 4 in the isos folder to launch the game.
+  - [Simple Tutorial how to install Legend of Dragoon Java on their website](https://legendofdragoon.org/guides/setup-severed-chains/)
