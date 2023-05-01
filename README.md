@@ -36,7 +36,7 @@ You can easily install Mods.
 
 - [zelda3](https://github.com/snesrev/zelda3) -Decompilation of Zelda A Link to the Past.
 
-### The Legend of Zelda: A Link to the Past
+### Super Metroid
 - ⭐[Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
   - [Simple Tutorial how to install Super Metroid Launcher on YouTube](https://youtu.be/BuXtK7_aQio)
 
