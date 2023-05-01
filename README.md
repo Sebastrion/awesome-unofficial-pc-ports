@@ -32,9 +32,15 @@ You can easily install Mods.
 
 ### The Legend of Zelda: A Link to the Past
 - ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
-  - [Simple Tutorial how to install Ship of Harkinian on YouTube](https://youtu.be/fGNLr0cGBP4)
+  - [Simple Tutorial how to install Zelda 3 Launcher on YouTube](https://youtu.be/fGNLr0cGBP4)
 
 - [zelda3](https://github.com/snesrev/zelda3) -Decompilation of Zelda A Link to the Past.
+
+### The Legend of Zelda: A Link to the Past
+- ⭐[Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
+  - [Simple Tutorial how to install Super Metroid Launcher on YouTube](https://youtu.be/BuXtK7_aQio)
+
+- [sm](https://github.com/snesrev/sm) -Decompilation of Super Metroid.
 
 ### Cave Story+ (Switch Version has Co-op, new Soundtrack and additional challenge mode)
 - ⭐[doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) -Just an exe file which needs to be dropped in the Cave Story folder.
