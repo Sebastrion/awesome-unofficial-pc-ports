@@ -42,6 +42,11 @@ You can easily install Mods.
 
 - [sm](https://github.com/snesrev/sm) -Decompilation of Super Metroid.
 
+### Super Mario World + All-Stars
+- ⭐[Super Mario All-Stars Launcher for Super Mario World](https://github.com/stephini/SMAS_Launcher) -User friendly installer with GUI.
+
+- [smw](https://github.com/snesrev/smw) -Decompilation of Super Mario World.
+
 ### Cave Story+ (Switch Version has Co-op, new Soundtrack and additional challenge mode)
 - ⭐[doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) -Just an exe file which needs to be dropped in the Cave Story folder.
 
