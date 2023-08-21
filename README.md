@@ -30,6 +30,11 @@ You can easily install Mods.
 
 - [oot](https://github.com/zeldaret/oot) -Decompilation of Zelda Ocarina of Time.
 
+### Perfect Dark
+- ⭐[Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) -Most easy way to install the game.
+
+- [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) -Decompilation of Perfect Dark.
+
 ### The Legend of Zelda: A Link to the Past
 - ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
   - [Simple Tutorial how to install Zelda 3 Launcher on YouTube](https://youtu.be/fGNLr0cGBP4)
