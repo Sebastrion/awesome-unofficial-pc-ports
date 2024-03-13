@@ -68,3 +68,8 @@ You can easily install Mods.
 ### Legend of Dragoon
 - ⭐[Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) -A Launcher where you need to put Disc 1 to 4 in the isos folder to launch the game.
   - [Simple Tutorial how to install Legend of Dragoon Java on their website](https://legendofdragoon.org/guides/setup-severed-chains/)
+ 
+# SEGA Games
+### Sonic 3 & Knuckles
+- ⭐[Sonic 3 - Angel Island Revisited](https://github.com/Eukaryot/sonic3air) -A Launcher. You can easily install Mods.
+  - [Simple Tutorial how to install Sonic 3 - Angel Island Revisited on Windows in this Manual](https://sonic3air.org/Manual.pdf)
