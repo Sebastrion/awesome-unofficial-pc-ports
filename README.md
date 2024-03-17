@@ -46,6 +46,7 @@ You can easily install Mods.
   - [Simple Tutorial how to install Super Metroid Launcher on YouTube](https://youtu.be/BuXtK7_aQio)
 
 - [sm](https://github.com/snesrev/sm) -Decompilation of Super Metroid.
+- [sm_rewrite](https://github.com/enderandrew/sm_rewrite) -for of the above Decompilation of Super Metroid meant to continue the work and add more features..
 
 ### Super Mario World + All-Stars
 - ⭐[Super Mario All-Stars Launcher for Super Mario World](https://github.com/stephini/SMAS_Launcher) -User friendly installer with GUI.
