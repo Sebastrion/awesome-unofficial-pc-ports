@@ -1,5 +1,5 @@
 # awesome-unofficial-pc-ports
-A curated list of awesome unofficial PC Port.
+A curated list of awesome unofficial PC Port created by using Decompilation.
 
 ⭐ = The most user-friendly Version, this is probably the Version you are looking for.
 
@@ -57,6 +57,13 @@ You can easily install Mods.
 - ⭐[doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) -Just an exe file which needs to be dropped in the Cave Story folder.
 
 # PlayStation Games
+
+### Wipeout
+
+- ⭐[WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) -Most user friendly installation. Put Disc in the diskimages folder to launch the game.
+
+- [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) -This is a re-implementation of the 1995 PSX game wipEout.
+
 ### Jak and Daxter
 
 - ⭐[OpenGoal/jak-project](https://github.com/open-goal/jak-project) -User friendly installer with GUI. You can also install Mods, Texture Packs etc.
