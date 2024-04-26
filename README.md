@@ -49,7 +49,7 @@ You can easily install Mods.
 - [sm_rewrite](https://github.com/enderandrew/sm_rewrite) -fork of the above Decompilation of Super Metroid meant to continue the work and add more features..
 
 ### Super Mario World + All-Stars
-- ⭐[Super Mario All-Stars Launcher for Super Mario World](https://github.com/stephini/SMAS_Launcher) -User friendly installer with GUI.
+- ⭐[Super Mario All-Stars Launcher for Super Mario World](https://github.com/qurious-pixel/SMAS_Launcher) -User friendly installer with GUI.
 
 - [smw](https://github.com/snesrev/smw) -Decompilation of Super Mario World.
 
