@@ -1,5 +1,5 @@
 # awesome-unofficial-pc-ports
-A curated list of awesome unofficial PC Port created by using Decompilation.
+A curated list of awesome unofficial PC Port created by using Decompilation/Recompilation.
 
 ⭐ = The most user-friendly Version, this is probably the Version you are looking for.
 
@@ -29,6 +29,10 @@ You can easily install Mods.
   - [Simple Tutorial how to install Ship of Harkinian on YouTube](https://youtu.be/IK4RzYLuFZM)
 
 - [oot](https://github.com/zeldaret/oot) -Decompilation of Zelda Ocarina of Time.
+
+### The Legend of Zelda: Majoras Mask
+- ⭐[Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) -User friendly installer with GUI.
+You can easily install Mods.
 
 ### Perfect Dark
 - ⭐[Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) -Most easy way to install the game.
