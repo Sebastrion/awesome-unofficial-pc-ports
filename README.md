@@ -32,7 +32,6 @@ You can easily install Mods.
 
 ### The Legend of Zelda: Majoras Mask
 - ⭐[Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) -User friendly installer with GUI.
-You can easily install Mods.
 
 ### Perfect Dark
 - ⭐[Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) -Most easy way to install the game.
