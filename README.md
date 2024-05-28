@@ -2,6 +2,7 @@
 A curated list of awesome unofficial PC Port created by using Decompilation/Recompilation.
 
 A Game will only be added if it has an easy way to install for the end user. (Launcher, simple drag and drop, etc.)
+
 ⭐ = The most user-friendly Version, this is probably the Version you are looking for.
 
 # Nintendo Games
