@@ -88,7 +88,7 @@ You can easily install Mods.
  
 # SEGA Games
 ### Sonic the Hedgehog 1
-- ⭐[Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-1-forever) -Easy drag and drop to Install.
+- ⭐[Sonic the Hedgehog Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever) -Easy drag and drop to Install.
   - [Simple Tutorial how to install Sonic the Hedgehog 2 Absolute on Windows on their website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
  
 - [Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) -Decompilation of Sonic the Hedgehog 1
