@@ -87,6 +87,19 @@ You can easily install Mods.
   - [Simple Tutorial how to install Legend of Dragoon Java on their website](https://legendofdragoon.org/guides/setup-severed-chains/)
  
 # SEGA Games
+### Sonic the Hedgehog 1
+- ⭐[Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-1-forever) -Easy drag and drop to Install.
+  - [Simple Tutorial how to install Sonic the Hedgehog 2 Absolute on Windows on their website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
+ 
+- [Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) -Decompilation of Sonic the Hedgehog 1
+
+### Sonic the Hedgehog 2
+- ⭐[Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute) -Easy drag and drop to Install.
+  - [Simple Tutorial how to install Sonic the Hedgehog 2 Absolute on Windows on their website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
+ 
+- [Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) -Decompilation of Sonic the Hedgehog 2
+
 ### Sonic 3 & Knuckles
 - ⭐[Sonic 3 - Angel Island Revisited](https://github.com/Eukaryot/sonic3air) -A Launcher. You can easily install Mods.
   - [Simple Tutorial how to install Sonic 3 - Angel Island Revisited on Windows in this Manual](https://sonic3air.org/Manual.pdf)
+  
