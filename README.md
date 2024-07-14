@@ -1,9 +1,10 @@
 # awesome-unofficial-pc-ports
-A curated list of awesome unofficial PC Port created by using Decompilation/Recompilation.
+A curated list of awesome unofficial PC Ports created by using Decompilation/Recompilation.
 
-A Game will only be added if it has an easy way to install for the end user. (Launcher, simple drag and drop, etc.)
-
-⭐ = The most user-friendly Version, this is probably the Version you are looking for.
+__Info:__
+- Only games that have an easy installation method for the end user (e.g., launcher, simple drag-and-drop) will be included.
+- Only console games that have been unofficially ported to PC using Decompilation/Recompilation will be featured here.
+- ⭐ = The most user-friendly version; this is probably the version you are looking for.
 
 # Nintendo Games
 ### Super Mario 64
@@ -105,4 +106,8 @@ You can easily install Mods.
 ### Sonic 3 & Knuckles
 - ⭐[Sonic 3 - Angel Island Revisited](https://github.com/Eukaryot/sonic3air) -A Launcher. You can easily install Mods.
   - [Simple Tutorial how to install Sonic 3 - Angel Island Revisited on Windows in this Manual](https://sonic3air.org/Manual.pdf)
+
+### Out Run
+- ⭐[cannonball](https://github.com/djyt/cannonball) -Easy drag and drop to Install.
+   - [Simple Tutorial how to install cannonball on Windows in this Manual](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
   
