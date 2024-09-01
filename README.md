@@ -46,7 +46,7 @@ You can easily install Mods.
 - [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) -Decompilation of Perfect Dark.
 
 ### Mystical Ninja Starring Goemon
-- ⭐[Mystical Ninja Starring Goemon Recompiled](https://cdn.discordapp.com/attachments/1180151093846609961/1245392879011233813/MNSGRecompiled-Windows.7z?ex=66914680&is=668ff500&hm=3c3c26298be973d4948e40ef2ea099e0ee6483f2a497592bc0104efbe7370d8b&) -User friendly installer with GUI. ATTENTION: Only the Japanese version is supported. A Github page for the project is coming soon!
+- ⭐[Mystical Ninja Starring Goemon Recompiled](https://drive.google.com/file/d/1IAuuv0JY8GVDwDxhJflhCDhBLuhgPs5B/view) -User friendly installer with GUI. A Github page for the project is coming soon!
 
 ### The Legend of Zelda: A Link to the Past
 - ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
