@@ -121,7 +121,7 @@ You can easily install mods with it.
 
 <br>
 
-[**YouTube**: Simple tutorial on how to install **Ship of Harkinian**](https://youtu.be/IK4RzYLuFZM)
+[**YouTube**: Simple tutorial on how to setup and use **Ship of Harkinian**](https://youtu.be/IK4RzYLuFZM)
 
 <br><br><br>
 
@@ -151,7 +151,7 @@ User-friendly installer with a GUI.
 
 <br>
 
-[**YouTube**: Simple tutorial on how to install **Zelda 64: Recompiled (Zelda64Recomp)**](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
+[**YouTube**: Simple tutorial on how to setup and use **Zelda 64: Recompiled (Zelda64Recomp)**](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
 <br><br><br>
 
@@ -221,7 +221,7 @@ You can easily install mods, texture packs, etc.
 
 <br>
 
-[**YouTube**: Simple tutorial on how to install **Zelda 3 Launcher**](https://youtu.be/fGNLr0cGBP4)
+[**YouTube**: Simple tutorial on how to setup and use **Zelda 3 Launcher**](https://youtu.be/fGNLr0cGBP4)
 
 <br><br><br>
 
@@ -354,7 +354,7 @@ You can also install mods, texture packs, etc.
 
 <br>
 
-[**YouTube**: Simple tutorial on how to install **OpenGoal**](https://youtu.be/vwmkMjYFO-k)
+[**YouTube**: Simple tutorial on how to setup and use **OpenGoal**](https://youtu.be/vwmkMjYFO-k)
 
 
 <br><br><br><br>
@@ -378,7 +378,7 @@ You can also install Mods, Texture Packs etc.
 <br>
 
 
-[**YouTube**: Simple tutorial on how to install **REDRIVER2**](https://youtu.be/XHAnxbYO3bw)
+[**YouTube**: Simple tutorial on how to setup and use **REDRIVER2**](https://youtu.be/XHAnxbYO3bw)
 
 
 <br><br><br><br>
@@ -400,7 +400,7 @@ Prerequisite: Disc 1 to 4 in the _isos_ folder.
 
 <br>
 
-[Simple tutorial on how to install **Legend of Dragoon Java**](https://legendofdragoon.org/guides/setup-severed-chains/)
+[Simple tutorial on how to setup and use **Legend of Dragoon Java**](https://legendofdragoon.org/guides/setup-severed-chains/)
 
 <br><br><br><br>
 
@@ -421,7 +421,7 @@ Prerequisite: Disc 1 to 4 in the _isos_ folder.
 
 Easy drag-and-drop installation.
 
-[Simple tutorial on how to install **Sonic the Hedgehog Forever** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
+[Simple tutorial on how to setup and use **Sonic the Hedgehog Forever** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
  
 <br><br>
 
@@ -451,7 +451,7 @@ Easy drag-and-drop installation.
 
 <br>
   
-[Simple tutorial on how to install **Sonic the Hedgehog 2 Absolute** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
+[Simple tutorial on how to setup and use **Sonic the Hedgehog 2 Absolute** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
 
 
 
@@ -506,7 +506,7 @@ Easy drag-and-drop installation.
 
 <br>
 
-[Simple tutorial on how to install **Cannonball** on Windows](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
+[Simple tutorial on how to setup and use **Cannonball** on Windows](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
 
 
 
