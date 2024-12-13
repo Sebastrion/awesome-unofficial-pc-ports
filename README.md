@@ -195,11 +195,17 @@ Decompilation of **Perfect Dark**
 
 <br>
 
-User-friendly installer with GUI.
+User-friendly installer with a GUI.
 
 At the time of writing, it's unclear when the project will go public on something like GitHub.
 
+
+
 <br><br><br><br>
+
+
+
+
 
 ## The Legend of Zelda: A Link to the Past
 
@@ -228,7 +234,13 @@ You can easily install mods, texture packs, etc.
 
 Decompilation of **The Legend of Zelda: A Link to the Past**
 
+
+
 <br><br><br><br>
+
+
+
+
 
 ## Super Metroid
 
@@ -263,7 +275,13 @@ Decompilation of **Super Metroid**
 
 Fork of the above decompilation, meant to continue the work and add more features.
 
+
+
 <br><br><br><br>
+
+
+
+
 
 ## Super Mario World + All-Stars
 
@@ -286,17 +304,23 @@ User-friendly installer with a GUI.
 
 Decompilation of **Super Mario World**
 
+
+
+
 <br><br><br><br>
 
 
 
-# PlayStation Games
+
+# PlayStation games
+
+<br>
 
 ## Wipeout
 
 <br>
 
-### ⭐ [Wipeout Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) 
+### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) 
 
 <br>
 
@@ -312,6 +336,8 @@ Re-implementation of the game
 
 
 <br><br><br><br>
+
+
 
 
 ## Jak and Daxter
@@ -332,6 +358,9 @@ You can also install mods, texture packs, etc.
 
 
 <br><br><br><br>
+
+
+
 
 
 ## Driver 2
@@ -355,6 +384,8 @@ You can also install Mods, Texture Packs etc.
 <br><br><br><br>
 
 
+
+
 ## Legend of Dragoon
 
 <br>
@@ -373,8 +404,12 @@ Prerequisite: Disc 1 to 4 in the _isos_ folder.
 
 <br><br><br><br>
 
+
+
  
 # SEGA games
+
+<br>
 
 ## Sonic the Hedgehog 1
 
@@ -434,7 +469,9 @@ Decompilation of **Sonic the Hedgehog 2**
 
 
 
-<br><br><br>
+<br><br><br><br>
+
+
 
 ## Sonic 3 & Knuckles
 
@@ -452,7 +489,10 @@ You can also easily install mods.
   
 [Manual](https://sonic3air.org/Manual.pdf)
 
-<br><br><br>
+<br><br><br><br>
+
+
+
 
 ## OutRun
 
@@ -474,6 +514,8 @@ Easy drag-and-drop installation.
 
 
 # Indie games
+
+<br>
 
 ## Cave Story+
 
