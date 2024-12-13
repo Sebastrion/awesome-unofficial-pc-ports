@@ -57,7 +57,7 @@ This can also be built by using **[sm64pcbuilder2](https://github.com/Sebastrion
 
 <br><br><br>
 
-### Projects
+### Project(s)
 
 <br>
 
@@ -103,7 +103,7 @@ Its purpose is to actively maintain and improve, but also to continue [sm64ex-co
 
 [sm64js](https://vanilla.sm64js.com/)
 
-JavaScript port of **Super Mario 64** with MMO-like multiplayer working in your Browser
+JavaScript port of **Super Mario 64** with MMO-like multiplayer that runs directly in your web browser
 
 <br><br><br><br>
 
@@ -125,17 +125,19 @@ You can easily install mods with it.
 
 <br><br><br>
 
-### Projects
+### Project(s)
 
 <br>
 
 [**oot**](https://github.com/zeldaret/oot) 
 
-
-
 Decompilation of **The Legend of Zelda: Ocarina of Time**
 
+
+
 <br><br><br><br>
+
+
 
 ## The Legend of Zelda: Majoras Mask
 
@@ -149,7 +151,7 @@ User-friendly installer with a GUI.
 
 <br>
 
-[**YouTube**: Simple tutorial on how to install **Zelda64Recomp**](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
+[**YouTube**: Simple tutorial on how to install **Zelda 64: Recompiled (Zelda64Recomp)**](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
 <br><br><br>
 
@@ -173,17 +175,15 @@ You can easily install mods as well.
 
 A project that makes it very easy to install and play the game.
 
-<br><br>
+<br><br><br>
 
-### Projects
+### Project(s)
 
 <br>
 
 [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) 
 
-<br>
-
-Decompilation of Perfect Dark.
+Decompilation of **Perfect Dark**
 
 <br><br><br><br>
 
@@ -193,33 +193,98 @@ Decompilation of Perfect Dark.
 
 ### ⭐ [Mystical Ninja Starring Goemon Recompiled](https://drive.google.com/file/d/1IAuuv0JY8GVDwDxhJflhCDhBLuhgPs5B/view) 
 
+<br>
+
 User-friendly installer with GUI.
 
-At the time of writing, it's unclear when the project will go public on something like Github.
+At the time of writing, it's unclear when the project will go public on something like GitHub.
 
 <br><br><br><br>
 
 ## The Legend of Zelda: A Link to the Past
-- ⭐[Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
-  - [Simple Tutorial how to install Zelda 3 Launcher on YouTube](https://youtu.be/fGNLr0cGBP4)
 
-- [zelda3](https://github.com/snesrev/zelda3) -Decompilation of Zelda A Link to the Past.
+<br>
+
+### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) 
+
+<br>
+
+User-friendly installer with a GUI. 
+
+You can easily install mods, texture packs, etc.
+
+<br>
+
+[**YouTube**: Simple tutorial on how to install **Zelda 3 Launcher**](https://youtu.be/fGNLr0cGBP4)
+
+<br><br><br>
+
+
+### Project(s)
+
+<br>
+
+[zelda3](https://github.com/snesrev/zelda3) 
+
+Decompilation of **The Legend of Zelda: A Link to the Past**
 
 <br><br><br><br>
 
 ## Super Metroid
-- ⭐[Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) -User friendly installer with GUI. You can easily install Mods, Texture Packs etc.
-  - [Simple Tutorial how to install Super Metroid Launcher on YouTube](https://youtu.be/BuXtK7_aQio)
 
-- [sm](https://github.com/snesrev/sm) -Decompilation of Super Metroid.
-- [sm_rewrite](https://github.com/enderandrew/sm_rewrite) -fork of the above Decompilation of Super Metroid meant to continue the work and add more features..
+<br>
+
+### ⭐ [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) 
+
+<br>
+
+User-friendly installer with GUI. 
+
+You can easily install mods, texture packs, etc.
+
+<br>
+
+[**YouTube**: Simple Tutorial how to install the **Super Metroid Launcher**](https://youtu.be/BuXtK7_aQio)
+
+<br><br><br>
+
+
+### Project(s)
+
+<br>
+
+[sm](https://github.com/snesrev/sm) 
+
+Decompilation of **Super Metroid**
+
+<br>
+
+[sm_rewrite](https://github.com/enderandrew/sm_rewrite) 
+
+Fork of the above decompilation, meant to continue the work and add more features.
 
 <br><br><br><br>
 
 ## Super Mario World + All-Stars
-- ⭐[Super Mario All-Stars Launcher for Super Mario World](https://github.com/qurious-pixel/SMAS_Launcher) -User friendly installer with GUI.
 
-- [smw](https://github.com/snesrev/smw) -Decompilation of Super Mario World.
+<br>
+
+### ⭐ [Super Mario All-Stars Launcher for Super Mario World](https://github.com/qurious-pixel/SMAS_Launcher) 
+
+<br>
+
+User-friendly installer with a GUI.
+
+
+<br><br><br>
+
+### Project(s)
+
+<br>
+
+[smw](https://github.com/snesrev/smw) 
+
+Decompilation of **Super Mario World**
 
 <br><br><br><br>
 
@@ -229,29 +294,91 @@ At the time of writing, it's unclear when the project will go public on somethin
 
 ## Wipeout
 
-- ⭐[WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) -Most user friendly installation. Put Disc in the diskimages folder to launch the game.
+<br>
 
-- [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) -This is a re-implementation of the 1995 PSX game wipEout.
+### ⭐ [Wipeout Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) 
+
+<br>
+
+Most user-friendly way to play the game.
+
+Put a valid disc image (in the form of BIN and CUE files) in the _diskimages_ folder - then launch the game.
+
+<br><br>
+
+[wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) 
+
+Re-implementation of the game
+
+
+<br><br><br><br>
+
 
 ## Jak and Daxter
 
-- ⭐[OpenGoal/jak-project](https://github.com/open-goal/jak-project) -User friendly installer with GUI. You can also install Mods, Texture Packs etc.
-  - [Simple Tutorial how to install OpenGoal on YouTube](https://youtu.be/vwmkMjYFO-k)
+<br>
+
+### ⭐ [OpenGoal/jak-project](https://github.com/open-goal/jak-project) 
+
+<br>
+
+User-friendly installer with a GUI. 
+
+You can also install mods, texture packs, etc.
+
+<br>
+
+[**YouTube**: Simple tutorial on how to install **OpenGoal**](https://youtu.be/vwmkMjYFO-k)
+
+
+<br><br><br><br>
+
 
 ## Driver 2
-- ⭐[REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) -User friendly installer with GUI.You can also install Mods, Texture Packs etc.
-  - [Simple Tutorial how to install REDRIVER2 on YouTube](https://youtu.be/XHAnxbYO3bw)
+
+<br>
+
+### ⭐ [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) 
+
+<br>
+
+User-friendly installer with GUI.
+
+You can also install Mods, Texture Packs etc.
+
+<br>
+
+
+[**YouTube**: Simple tutorial on how to install **REDRIVER2**](https://youtu.be/XHAnxbYO3bw)
+
+
+<br><br><br><br>
+
 
 ## Legend of Dragoon
-- ⭐[Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) -A Launcher where you need to put Disc 1 to 4 in the isos folder to launch the game.
-  - [Simple Tutorial how to install Legend of Dragoon Java on their website](https://legendofdragoon.org/guides/setup-severed-chains/)
 
+<br>
 
+### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) 
+
+<br>
+
+A launcher
+
+Prerequisite: Disc 1 to 4 in the _isos_ folder.
+
+<br>
+
+[Simple tutorial on how to install **Legend of Dragoon Java**](https://legendofdragoon.org/guides/setup-severed-chains/)
+
+<br><br><br><br>
 
  
 # SEGA games
 
 ## Sonic the Hedgehog 1
+
+<br>
 
 ### ⭐ [Sonic the Hedgehog Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever) 
 
@@ -259,13 +386,17 @@ At the time of writing, it's unclear when the project will go public on somethin
 
 Easy drag-and-drop installation.
 
-[Simple tutorial on how to install Sonic the Hedgehog 2 Absolute on Windows - directly on the developer's website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
+[Simple tutorial on how to install **Sonic the Hedgehog Forever** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
  
 <br><br>
 
-## Projects
+### Project(s)
 
-[Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) Decompilation of Sonic the Hedgehog 1
+<br>
+
+[Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) 
+
+Decompilation of **Sonic the Hedgehog 1**
 
 
 
@@ -275,6 +406,7 @@ Easy drag-and-drop installation.
 
 ## Sonic the Hedgehog 2
 
+<br>
 
 ### ⭐ [Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute) 
 
@@ -284,23 +416,29 @@ Easy drag-and-drop installation.
 
 <br>
   
-[Simple Tutorial how to install Sonic the Hedgehog 2 Absolute on Windows on their website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
+[Simple tutorial on how to install **Sonic the Hedgehog 2 Absolute** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
+
+
+
 
 <br><br><br>
 
-## Projects
+
+### Project(s)
+
+<br>
  
 [Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) 
 
-<br>
-
-Decompilation of Sonic the Hedgehog 2
+Decompilation of **Sonic the Hedgehog 2**
 
 
 
 <br><br><br>
 
 ## Sonic 3 & Knuckles
+
+<br>
 
 ### ⭐ [Sonic 3 - Angel Island Revisited](https://github.com/Eukaryot/sonic3air) 
 
@@ -312,20 +450,34 @@ You can also easily install mods.
   
 <br>
   
-[Manual: Sonic 3 - Angel Island Revisited](https://sonic3air.org/Manual.pdf)
+[Manual](https://sonic3air.org/Manual.pdf)
 
-## Out Run
-- ⭐[cannonball](https://github.com/djyt/cannonball) -Easy drag and drop to Install.
-   - [Simple Tutorial how to install cannonball on Windows in this Manual](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
+<br><br><br>
+
+## OutRun
+
+<br>
+
+### ⭐ [Cannonball - OutRun Engine](https://github.com/djyt/cannonball)
+
+<br>
+
+Easy drag-and-drop installation.
+
+<br>
+
+[Simple tutorial on how to install **Cannonball** on Windows](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
 
 
+
+<br><br><br><br>
 
 
 # Indie games
 
-<br>
-
 ## Cave Story+
+
+<br>
 
 ### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) 
 
@@ -333,5 +485,5 @@ You can also easily install mods.
 
 Just an EXE file. 
 
-Drop it into the Cave Story folder and run it - that's it.
+Drop it into the _Cave Story_ directory and execute - that's it.
 
