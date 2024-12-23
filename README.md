@@ -165,6 +165,20 @@ You can easily install mods as well.
 
 <br><br><br><br>
 
+## Star Fox 64
+
+<br>
+
+### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0)
+
+<br>
+
+User-friendly installer with a GUI.
+
+You can easily install mods as well.
+
+<br><br><br><br>
+
 ## Perfect Dark
 
 <br>
