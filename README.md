@@ -508,6 +508,28 @@ You can also easily install mods.
 
 
 
+
+## Sonic Unleashed
+
+<br>
+
+### ⭐ [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp) 
+
+<br>
+
+Provides a Launcher. 
+
+You can also easily install mods.
+  
+<br>
+  
+[How to install](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install)
+
+<br><br><br><br>
+
+
+
+
 ## OutRun
 
 <br>
