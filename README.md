@@ -513,7 +513,7 @@ You can also easily install mods.
 
 <br>
 
-### ⭐ [Sonic Unleashed](https://github.com/hedge-dev/UnleashedRecomp) 
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) 
 
 <br>
 
