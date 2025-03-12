@@ -205,7 +205,7 @@ Decompilation of **Perfect Dark**
 
 <br>
 
-### ⭐ [Mystical Ninja Starring Goemon Recompiled](https://github.com/klorfmorf/Goemon64Recomp) 
+### ⭐ [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) 
 
 <br>
 
