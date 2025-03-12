@@ -205,13 +205,11 @@ Decompilation of **Perfect Dark**
 
 <br>
 
-### ⭐ [Mystical Ninja Starring Goemon Recompiled](https://drive.google.com/file/d/1IAuuv0JY8GVDwDxhJflhCDhBLuhgPs5B/view) 
+### ⭐ [Mystical Ninja Starring Goemon Recompiled](https://github.com/klorfmorf/Goemon64Recomp) 
 
 <br>
 
 User-friendly installer with a GUI.
-
-At the time of writing, it's unclear when the project will go public on something like GitHub.
 
 
 
