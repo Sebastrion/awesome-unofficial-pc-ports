@@ -215,6 +215,19 @@ User-friendly installer with a GUI.
 
 <br><br><br><br>
 
+## Dinosaur Planet
+
+<br>
+
+### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp) 
+
+<br>
+
+User-friendly installer with a GUI.
+
+
+
+<br><br><br><br>
 
 
 
