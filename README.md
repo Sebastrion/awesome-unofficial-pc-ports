@@ -229,8 +229,19 @@ User-friendly installer with a GUI.
 
 <br><br><br><br>
 
+## Mario Kart 64
+
+<br>
+
+### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) 
+
+<br>
+
+User-friendly installer with a GUI.
 
 
+
+<br><br><br><br>
 
 ## The Legend of Zelda: A Link to the Past
 
