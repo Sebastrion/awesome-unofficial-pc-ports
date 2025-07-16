@@ -1,5 +1,18 @@
 # Awesome, unofficial PC ports
 
+<div align="center">
+  
+**🎮 Help preserve gaming history! 🎮**
+
+[![Stop Killing Games](https://img.shields.io/badge/Stop%20Killing%20Games-Support%20Game%20Preservation-red?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.stopkillinggames.com/)
+
+*Support the initiative to keep games playable forever*  
+*No money required - everyone can help preserve gaming history!*
+
+---
+
+</div>
+
 ### A curated list, made out of great [Decompilation/Recompilation](https://www.techtarget.com/whatis/definition/decompile) projects
 
 <br>
