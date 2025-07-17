@@ -17,10 +17,10 @@
 
 ## 📚 Table of Contents
 
-- [🎮 Nintendo](#nintendo)
-- [🕹️ PlayStation](#playstation)
-- [🌀 SEGA](#sega)
-- [🌟 Indie](#indie)
+- [🎮 Nintendo](#-nintendo)
+- [🕹️ PlayStation](#️-playstation)
+- [🌀 SEGA](#-sega)
+- [🌟 Indie](#-indie)
 
 ---
 
