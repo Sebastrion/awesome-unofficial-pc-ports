@@ -13,590 +13,303 @@
 
 </div>
 
-### A curated list, made out of great [Decompilation/Recompilation](https://www.techtarget.com/whatis/definition/decompile) projects
+---
 
-<br>
+## 📚 Table of Contents
 
-### Criteria
+- [🎮 Nintendo](#nintendo)
+- [🕹️ PlayStation](#playstation)
+- [🌀 SEGA](#sega)
+- [🌟 Indie](#indie)
 
-<br>
+---
 
-- Only console games that have been unofficially ported to PC using _Decompilation/Recompilation_
+## 📌 Criteria
+
+- Only console games that have been unofficially ported to PC using [_Decompilation/Recompilation_](https://www.techtarget.com/whatis/definition/decompile)
 - Only games that have an easy installation method for the end-user (e.g., a launcher, or simply drag-and-drop)
 
-<br>
+---
 
-### Glossary
-
-<br>
+## 📖 Glossary
 
 ⭐ = The most user-friendly version; this is probably the one you're looking for
 
-<br><br>
+---
 
-# Nintendo games
+## 🎮 Nintendo
 
-<br>
+<details>
+<summary><strong>Super Mario 64</strong></summary>
 
-## Super Mario 64
+### ⭐ [sm64pcbuilder2](https://sm64pc.info/sm64pcbuilder2/)
 
-<br>
+GUI app for compiling ports, applying mods, texture packs, and more.  
+📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
 
-### ⭐ [**sm64pcbuilder2**](https://sm64pc.info/sm64pcbuilder2/)
+### ⭐ [sm64plus](https://www.mfgg.net/?act=resdb&param=02&c=2&id=38190)
 
-<br>
+Installer with GUI + quality-of-life features like 60 FPS and better camera.  
+Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2)
 
-GUI application for easily compiling different ports.
+#### Project(s)
 
-You can use it to apply mods, texture packs, and more in the process.
+- [n64decomp: sm64](https://github.com/n64decomp/sm64)
 
-<br>
+#### Ports
 
-  [**YouTube**: Simple tutorial on how to setup and use **sm64pcbuilder2**](https://youtu.be/vwmkMjYFO-k)
+- [sm64](https://github.com/sm64-port/sm64) – Port for modern systems  
+- [sm64ex](https://github.com/sm64pc/sm64ex) – Easier modding  
+- [sm64rt](https://github.com/DarioSamo/sm64rt) – Ray tracing
 
-<br><br><br>
+#### Multiplayer
 
-### ⭐ [**sm64plus**](https://www.mfgg.net/?act=resdb&param=02&c=2&id=38190)
+- [Coop Deluxe](https://sm64coopdx.com/)
+- [sm64js (Browser MMO)](https://vanilla.sm64js.com/)
 
-<br>
+</details>
 
-User-friendly installer with a GUI.
+<details>
+<summary><strong>The Legend of Zelda: Ocarina of Time</strong></summary>
 
-It comes with quality-of-life improvements, 60 FPS, an improved camera system, an extended moveset, and more.
+### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright)
 
-<br>
+GUI installer. Easily install mods.  
+📺 [YouTube Tutorial](https://youtu.be/IK4RzYLuFZM)
 
-This can also be built by using **[sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2)**
+#### Project(s)
 
-<br><br><br>
+- [oot](https://github.com/zeldaret/oot)
 
-### Project(s)
+</details>
 
-<br>
+<details>
+<summary><strong>The Legend of Zelda: Majora's Mask</strong></summary>
 
-[**n64decomp**: sm64](https://github.com/n64decomp/sm64)
+### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp)
 
-Decompilation of **Super Mario 64**
-
-<br><br>
-
-### Ports
-
-<br>
-
-[sm64](https://github.com/sm64-port/sm64)
-
-Port for modern systems
-
-<br>
-
-[sm64ex](https://github.com/sm64pc/sm64ex)
-
-Port that allows for easier modding
-
-<br>
-
-[sm64rt](https://github.com/DarioSamo/sm64rt) 
-
-Port that adds ray tracing support
-
-<br><br>
-
-### Multiplayer
-
-<br>
-
-[Coop Deluxe](https://sm64coopdx.com/)
-
-Online multiplayer project for the **Super Mario 64** PC port, started by the **Coop Deluxe Team**. 
-
-Its purpose is to actively maintain and improve, but also to continue [sm64ex-coop](https://github.com/djoslin0/sm64ex-coop) - an original idea from [**djoslin0**](https://github.com/djoslin0)
-
-<br>
-
-[sm64js](https://vanilla.sm64js.com/)
-
-JavaScript port of **Super Mario 64** with MMO-like multiplayer that runs directly in your web browser
-
-<br><br><br><br>
-
-## The Legend of Zelda: Ocarina of Time 
-
-<br>
-
-### ⭐ [Ship of Harkinian](https://github.com/HarbourMasters/Shipwright) 
-
-<br>
-
-User-friendly installer with a GUI.
-
-You can easily install mods with it.
-
-<br>
-
-[**YouTube**: Simple tutorial on how to setup and use **Ship of Harkinian**](https://youtu.be/IK4RzYLuFZM)
-
-<br><br><br>
-
-### Project(s)
-
-<br>
-
-[**oot**](https://github.com/zeldaret/oot) 
-
-Decompilation of **The Legend of Zelda: Ocarina of Time**
-
-
-
-<br><br><br><br>
-
-
-
-## The Legend of Zelda: Majoras Mask
-
-<br>
-
-### ⭐ [Zelda 64: Recompiled](https://github.com/Mr-Wiseguy/Zelda64Recomp) 
-
-<br>
-
-User-friendly installer with a GUI.
-
-<br>
-
-[**YouTube**: Simple tutorial on how to setup and use **Zelda 64: Recompiled (Zelda64Recomp)**](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
-
-<br><br><br>
+GUI installer.  
+📺 [YouTube Tutorial](https://youtu.be/v255FoLaoNY?si=BZ9t0HA1pRV_i-Q9)
 
 ### ⭐ [2 Ship 2 Harkinian](https://github.com/HarbourMasters/2ship2harkinian)
 
-<br>
+GUI installer + mod support
 
-User-friendly installer with a GUI.
+</details>
 
-You can easily install mods as well.
-
-<br><br><br><br>
-
-## Star Fox 64
-
-<br>
+<details>
+<summary><strong>Star Fox 64</strong></summary>
 
 ### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0)
 
-<br>
+GUI installer + mod support
 
-User-friendly installer with a GUI.
+</details>
 
-You can easily install mods as well.
+<details>
+<summary><strong>Perfect Dark</strong></summary>
 
-<br><br><br><br>
+### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark)
 
-## Perfect Dark
+Easy install/play
 
-<br>
+#### Project(s)
 
-### ⭐ [Perfect Dark port](https://github.com/fgsfdsfgs/perfect_dark) 
+- [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark)
 
-<br>
+</details>
 
-A project that makes it very easy to install and play the game.
+<details>
+<summary><strong>Mystical Ninja Starring Goemon</strong></summary>
 
-<br><br><br>
+### ⭐ [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp)
 
-### Project(s)
+GUI installer
 
-<br>
+</details>
 
-[Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark) 
+<details>
+<summary><strong>Dinosaur Planet</strong></summary>
 
-Decompilation of **Perfect Dark**
+### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp)
 
-<br><br><br><br>
+GUI installer
 
-## Mystical Ninja Starring Goemon
+</details>
 
-<br>
+<details>
+<summary><strong>Mario Kart 64</strong></summary>
 
-### ⭐ [Goemon64Recomp](https://github.com/klorfmorf/Goemon64Recomp) 
+### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart)
 
-<br>
+GUI installer + Track editor
 
-User-friendly installer with a GUI.
+### ⭐ [MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp)
 
+GUI installer + mod support
 
+</details>
 
-<br><br><br><br>
+<details>
+<summary><strong>The Legend of Zelda: A Link to the Past</strong></summary>
 
-## Dinosaur Planet
+### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher)
 
-<br>
+GUI installer + mod/texture support  
+📺 [YouTube Tutorial](https://youtu.be/fGNLr0cGBP4)
 
-### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp) 
+#### Project(s)
 
-<br>
+- [zelda3](https://github.com/snesrev/zelda3)
 
-User-friendly installer with a GUI.
+</details>
 
+<details>
+<summary><strong>Super Metroid</strong></summary>
 
+### ⭐ [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher)
 
-<br><br><br><br>
+GUI installer + mod/texture support  
+📺 [YouTube Tutorial](https://youtu.be/BuXtK7_aQio)
 
-## Mario Kart 64
+#### Project(s)
 
-<br>
+- [sm](https://github.com/snesrev/sm)  
+- [sm_rewrite](https://github.com/enderandrew/sm_rewrite)
 
-### ⭐ [SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart) 
+</details>
 
-<br>
+<details>
+<summary><strong>Super Mario World + All-Stars</strong></summary>
 
-User-friendly installer with a GUI.
+### ⭐ [Super Mario All-Stars Launcher for SMW](https://github.com/qurious-pixel/SMAS_Launcher)
 
+GUI installer
 
+#### Project(s)
 
-<br><br><br><br>
+- [smw](https://github.com/snesrev/smw)
 
-## The Legend of Zelda: A Link to the Past
+</details>
 
-<br>
+---
 
-### ⭐ [Zelda 3 Launcher](https://github.com/RadzPrower/Zelda-3-Launcher) 
+## 🕹️ PlayStation
 
-<br>
+<details>
+<summary><strong>Wipeout</strong></summary>
 
-User-friendly installer with a GUI. 
+### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition)
 
-You can easily install mods, texture packs, etc.
+Drop BIN+CUE into `diskimages` and launch
 
-<br>
+#### Also see:
 
-[**YouTube**: Simple tutorial on how to setup and use **Zelda 3 Launcher**](https://youtu.be/fGNLr0cGBP4)
+- [wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file)
 
-<br><br><br>
+</details>
 
+<details>
+<summary><strong>Jak and Daxter</strong></summary>
 
-### Project(s)
+### ⭐ [OpenGoal](https://github.com/open-goal/jak-project)
 
-<br>
+GUI installer + mods  
+📺 [YouTube Tutorial](https://youtu.be/vwmkMjYFO-k)
 
-[zelda3](https://github.com/snesrev/zelda3) 
+</details>
 
-Decompilation of **The Legend of Zelda: A Link to the Past**
+<details>
+<summary><strong>Driver 2</strong></summary>
 
+### ⭐ [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2)
 
+GUI installer + mods  
+📺 [YouTube Tutorial](https://youtu.be/XHAnxbYO3bw)
 
-<br><br><br><br>
+</details>
 
+<details>
+<summary><strong>Legend of Dragoon</strong></summary>
 
+### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
 
+Drop discs into `isos` folder  
+📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
 
+</details>
 
-## Super Metroid
+---
 
-<br>
+## 🌀 SEGA
 
-### ⭐ [Super Metroid Launcher](https://github.com/RadzPrower/Super-Metroid-Launcher) 
+<details>
+<summary><strong>Sonic the Hedgehog 1</strong></summary>
 
-<br>
+### ⭐ [Sonic the Hedgehog Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
 
-User-friendly installer with GUI. 
+Drag-and-drop setup  
+📺 [Tutorial](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
 
-You can easily install mods, texture packs, etc.
+#### Project(s)
 
-<br>
+- [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 
-[**YouTube**: Simple Tutorial how to install the **Super Metroid Launcher**](https://youtu.be/BuXtK7_aQio)
+</details>
 
-<br><br><br>
+<details>
+<summary><strong>Sonic the Hedgehog 2</strong></summary>
 
+### ⭐ [Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
 
-### Project(s)
+Drag-and-drop setup  
+📺 [Tutorial](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
 
-<br>
+#### Project(s)
 
-[sm](https://github.com/snesrev/sm) 
+- [Sonic 1/2 Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
 
-Decompilation of **Super Metroid**
+</details>
 
-<br>
+<details>
+<summary><strong>Sonic 3 & Knuckles</strong></summary>
 
-[sm_rewrite](https://github.com/enderandrew/sm_rewrite) 
+### ⭐ [Sonic 3 AIR](https://github.com/Eukaryot/sonic3air)
 
-Fork of the above decompilation, meant to continue the work and add more features.
+Launcher with mod support  
+📄 [Manual](https://sonic3air.org/Manual.pdf)
 
+</details>
 
+<details>
+<summary><strong>Sonic Unleashed</strong></summary>
 
-<br><br><br><br>
+### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp)
 
+Launcher with mod support  
+📖 [Install Guide](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install)
 
+</details>
 
-
-
-## Super Mario World + All-Stars
-
-<br>
-
-### ⭐ [Super Mario All-Stars Launcher for Super Mario World](https://github.com/qurious-pixel/SMAS_Launcher) 
-
-<br>
-
-User-friendly installer with a GUI.
-
-
-<br><br><br>
-
-### Project(s)
-
-<br>
-
-[smw](https://github.com/snesrev/smw) 
-
-Decompilation of **Super Mario World**
-
-
-
-
-<br><br><br><br>
-
-
-
-
-# PlayStation games
-
-<br>
-
-## Wipeout
-
-<br>
-
-### ⭐ [WipeOut Phantom Edition](https://github.com/wipeout-phantom-edition/wipeout-phantom-edition) 
-
-<br>
-
-Most user-friendly way to play the game.
-
-Put a valid disc image (in the form of BIN and CUE files) in the _diskimages_ folder - then launch the game.
-
-<br><br>
-
-[wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite?tab=readme-ov-file) 
-
-Re-implementation of the game
-
-
-<br><br><br><br>
-
-
-
-
-## Jak and Daxter
-
-<br>
-
-### ⭐ [OpenGoal/jak-project](https://github.com/open-goal/jak-project) 
-
-<br>
-
-User-friendly installer with a GUI. 
-
-You can also install mods, texture packs, etc.
-
-<br>
-
-[**YouTube**: Simple tutorial on how to setup and use **OpenGoal**](https://youtu.be/vwmkMjYFO-k)
-
-
-<br><br><br><br>
-
-
-
-
-
-## Driver 2
-
-<br>
-
-### ⭐ [REDRIVER2](https://github.com/OpenDriver2/REDRIVER2) 
-
-<br>
-
-User-friendly installer with GUI.
-
-You can also install Mods, Texture Packs etc.
-
-<br>
-
-
-[**YouTube**: Simple tutorial on how to setup and use **REDRIVER2**](https://youtu.be/XHAnxbYO3bw)
-
-
-<br><br><br><br>
-
-
-
-
-## Legend of Dragoon
-
-<br>
-
-### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java) 
-
-<br>
-
-A launcher
-
-Prerequisite: Disc 1 to 4 in the _isos_ folder.
-
-<br>
-
-[Simple tutorial on how to setup and use **Legend of Dragoon Java**](https://legendofdragoon.org/guides/setup-severed-chains/)
-
-<br><br><br><br>
-
-
-
- 
-# SEGA games
-
-<br>
-
-## Sonic the Hedgehog 1
-
-<br>
-
-### ⭐ [Sonic the Hedgehog Forever](https://teamforeveronline.wixsite.com/home/sonic-1-forever) 
-
-<br>
-
-Easy drag-and-drop installation.
-
-[Simple tutorial on how to setup and use **Sonic the Hedgehog Forever** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-1-forever)
- 
-<br><br>
-
-### Project(s)
-
-<br>
-
-[Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) 
-
-Decompilation of **Sonic the Hedgehog 1**
-
-
-
-<br><br><br><br>
-
-
-
-## Sonic the Hedgehog 2
-
-<br>
-
-### ⭐ [Sonic the Hedgehog 2 Absolute](https://teamforeveronline.wixsite.com/home/sonic-2-absolute) 
-
-<br>
-
-Easy drag-and-drop installation.
-
-<br>
-  
-[Simple tutorial on how to setup and use **Sonic the Hedgehog 2 Absolute** on Windows - directly from the developer's website](https://teamforeveronline.wixsite.com/home/sonic-2-absolute)
-
-
-
-
-<br><br><br>
-
-
-### Project(s)
-
-<br>
- 
-[Sonic-1-2-2013-Decompilation](https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation) 
-
-Decompilation of **Sonic the Hedgehog 2**
-
-
-
-<br><br><br><br>
-
-
-
-## Sonic 3 & Knuckles
-
-<br>
-
-### ⭐ [Sonic 3 - Angel Island Revisited](https://github.com/Eukaryot/sonic3air) 
-
-<br>
-
-Provides a Launcher. 
-
-You can also easily install mods.
-  
-<br>
-  
-[Manual](https://sonic3air.org/Manual.pdf)
-
-<br><br><br><br>
-
-
-
-
-
-## Sonic Unleashed
-
-<br>
-
-### ⭐ [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) 
-
-<br>
-
-Provides a Launcher. 
-
-You can also easily install mods.
-  
-<br>
-  
-[How to install](https://github.com/hedge-dev/UnleashedRecomp?tab=readme-ov-file#how-to-install)
-
-<br><br><br><br>
-
-
-
-
-## OutRun
-
-<br>
+<details>
+<summary><strong>OutRun</strong></summary>
 
 ### ⭐ [Cannonball - OutRun Engine](https://github.com/djyt/cannonball)
 
-<br>
+Drag-and-drop install  
+📖 [Setup Guide](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
 
-Easy drag-and-drop installation.
+</details>
 
-<br>
+---
 
-[Simple tutorial on how to setup and use **Cannonball** on Windows](https://github.com/djyt/cannonball/wiki/Cannonball-Manual#getting-started)
+## 🌟 Indie
 
+<details>
+<summary><strong>Cave Story+</strong></summary>
 
+### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs)
 
-<br><br><br><br>
+Just drop the EXE into the Cave Story folder and run
 
-
-# Indie games
-
-<br>
-
-## Cave Story+
-
-<br>
-
-### ⭐ [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs) 
-
-<br>
-
-Just an EXE file. 
-
-Drop it into the _Cave Story_ directory and execute - that's it.
-
+</details>
