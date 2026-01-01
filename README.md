@@ -1,14 +1,5 @@
 # Awesome, unofficial PC ports
 
-<div align="center">
-  
-**🎮 Help preserve gaming history! 🎮**
-
-[![Stop Killing Games](https://img.shields.io/badge/Stop%20Killing%20Games-Support%20Game%20Preservation-red?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.stopkillinggames.com/)
-
-*Support the initiative to keep games playable forever*  
-*No money required - everyone can help preserve gaming history!*
-
 ---
 
 </div>
@@ -147,6 +138,33 @@ GUI installer + Track editor
 ### ⭐ [MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp)
 
 GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Duke Nukem: Zero Hour</strong></summary>
+
+### ⭐ [Duke Nukem Zero Hour: Recompiled](https://github.com/sonicdcer/DNZHRecomp)
+
+GUI installer + mod support (Gyro aiming, 60+ FPS)
+
+</details>
+
+<details>
+<summary><strong>Chameleon Twist</strong></summary>
+
+### ⭐ [Chameleon Twist: Recompiled](https://github.com/Rainchus/ChameleonTwist1-JP-Recomp)
+
+GUI installer
+
+</details>
+
+<details>
+<summary><strong>Dr. Mario 64</strong></summary>
+
+### ⭐ [Dr. Mario 64 Recomp Plus](https://github.com/theboy181/drmario64_recomp_plus)
+
+GUI installer + improvements (4-player controller support, 60+ FPS interpolation)
 
 </details>
 
