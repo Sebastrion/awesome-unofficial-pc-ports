@@ -12,7 +12,7 @@
 - [🕹️ PlayStation](#️-playstation)
 - [🌀 SEGA](#-sega)
 - [🌟 Indie](#-indie)
-
+- [☕ J2ME](#-j2me)
 ---
 
 ## 📌 Criteria
@@ -330,4 +330,23 @@ Drag-and-drop install
 
 Just drop the EXE into the Cave Story folder and run
 
+</details>
+
+---
+
+## ☕ J2ME
+
+<details>
+<summary><strong>Ratchet & Clank: Clone Home</strong></summary>
+
+A **lost 2006 J2ME game** that never officially released and was considered missing for years until a preserved build surfaced.
+
+### ⭐ PC Port
+- **CloneHome PC Port** – https://codeberg.org/bordplate/CloneHome
+
+### 📥 Original Game Dump
+- **Recovered J2ME build** – https://archive.org/details/ratchet-and-clank-clone-home
+
+### 📰 Background Info
+- Engadget article – https://www.engadget.com/gaming/a-long-lost-ratchet-and-clank-mobile-game-has-been-found-123008739.html
 </details>
