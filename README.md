@@ -13,6 +13,8 @@
 - [🌀 SEGA](#-sega)
 - [🌟 Indie](#-indie)
 - [☕ J2ME](#-j2me)
+- [🔧 Utilities](#-utilities)
+
 ---
 
 ## 📌 Criteria
@@ -106,7 +108,7 @@ Automated launcher/installer
 
 ### ⭐ [dusk](https://github.com/TwilitRealm/dusk)
 
-GUI installer + mod support
+PC port
 
 </details>
 
@@ -116,6 +118,15 @@ GUI installer + mod support
 ### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0)
 
 GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Super Smash Bros.</strong></summary>
+
+### ⭐ [BattleShip](https://github.com/JRickey/BattleShip/releases/tag/v0.8.2-beta)
+
+GUI installer
 
 </details>
 
@@ -144,9 +155,18 @@ GUI installer + mod support
 <details>
 <summary><strong>Bomberman 64</strong></summary>
 
-### ⭐ [bm64recomp](https://github.com/jusdaveman/bm64recomp)
+### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
 
-GUI installer
+GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Bomberman Hero</strong></summary>
+
+### ⭐ [BMHeroRecomp](https://github.com/RevoSucks/BMHeroRecomp)
+
+GUI installer + mod support
 
 </details>
 
@@ -155,7 +175,25 @@ GUI installer
 
 ### ⭐ [Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp)
 
-GUI installer
+GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Mega Man 64</strong></summary>
+
+### ⭐ [MegaMan64Recompiled](https://github.com/MegaMan64Recomp/MegaMan64Recompiled/releases/tag/v0.9.1)
+
+GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Space Station Silicon Valley</strong></summary>
+
+### ⭐ [SSSV_Recomp](https://github.com/Cellenseres/SSSV_Recomp)
+
+GUI installer + mod support
 
 </details>
 
@@ -222,7 +260,7 @@ GUI installer + improvements (4-player controller support, 60+ FPS interpolation
 
 ### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
 
-GUI installer + mod support
+PC port
 
 </details>
 
@@ -407,4 +445,18 @@ A **lost 2006 J2ME game** that never officially released and was considered miss
 
 ### 📰 Background Info
 - Engadget article – https://www.engadget.com/gaming/a-long-lost-ratchet-and-clank-mobile-game-has-been-found-123008739.html
+
+</details>
+
+---
+
+## 🔧 Utilities
+
+<details>
+<summary><strong>N64 Recomp Launcher</strong></summary>
+
+### ⭐ [N64RecompLauncher](https://github.com/SirDiabo/N64RecompLauncher)
+
+Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.
+
 </details>
