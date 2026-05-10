@@ -89,6 +89,28 @@ GUI installer + mod support
 </details>
 
 <details>
+<summary><strong>The Legend of Zelda: The Minish Cap</strong></summary>
+
+### ⭐ [auto-tmc](https://github.com/StonedModder/auto-tmc)
+
+Automated launcher/installer
+
+#### Project(s)
+
+- [tmc](https://github.com/MatheoVignaud/tmc)
+
+</details>
+
+<details>
+<summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
+
+### ⭐ [dusk](https://github.com/TwilitRealm/dusk)
+
+GUI installer + mod support
+
+</details>
+
+<details>
 <summary><strong>Star Fox 64</strong></summary>
 
 ### ⭐ [Starship](https://github.com/HarbourMasters/starship/releases/tag/v1.0.0)
@@ -107,6 +129,33 @@ Easy install/play
 #### Project(s)
 
 - [Perfect Dark Decompilation](https://github.com/n64decomp/perfect_dark)
+
+</details>
+
+<details>
+<summary><strong>Banjo-Kazooie</strong></summary>
+
+### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
+
+GUI installer + mod support
+
+</details>
+
+<details>
+<summary><strong>Bomberman 64</strong></summary>
+
+### ⭐ [bm64recomp](https://github.com/jusdaveman/bm64recomp)
+
+GUI installer
+
+</details>
+
+<details>
+<summary><strong>Quest 64</strong></summary>
+
+### ⭐ [Quest64-Recomp](https://github.com/Rainchus/Quest64-Recomp)
+
+GUI installer
 
 </details>
 
@@ -165,6 +214,15 @@ GUI installer
 ### ⭐ [Dr. Mario 64 Recomp Plus](https://github.com/theboy181/drmario64_recomp_plus)
 
 GUI installer + improvements (4-player controller support, 60+ FPS interpolation)
+
+</details>
+
+<details>
+<summary><strong>Animal Crossing (GameCube)</strong></summary>
+
+### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
+
+GUI installer + mod support
 
 </details>
 
@@ -228,7 +286,7 @@ Drop BIN+CUE into `diskimages` and launch
 </details>
 
 <details>
-<summary><strong>Jak and Daxter</strong></summary>
+<summary><strong>Jak and Daxter 1-3</strong></summary>
 
 ### ⭐ [OpenGoal](https://github.com/open-goal/jak-project)
 
