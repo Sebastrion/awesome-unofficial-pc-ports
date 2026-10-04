@@ -1,5 +1,7 @@
 # Awesome, unofficial PC ports
 
+> **Project status:** This project is **not discontinued**. Updates may occasionally take a few months, as the list is maintained in my spare time. Thank you for your patience!
+
 ---
 
 </div>
@@ -146,6 +148,10 @@ Easy install/play
 
 <details>
 <summary><strong>Banjo-Kazooie</strong></summary>
+
+### ⭐ [Lighthouse](https://github.com/HarbourMasters/Lighthouse)
+
+Native PC port with Anchor multiplayer, romhack/multi-language support, and a built-in randomizer. Extract the release, launch it, and select your compatible ROM.
 
 ### ⭐ [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp)
 
@@ -363,11 +369,20 @@ GUI installer + mods
 </details>
 
 <details>
+<summary><strong>Vandal Hearts</strong></summary>
+
+### ⭐ [VandalHearts-PcPort](https://github.com/HalmyLyseas/VandalHearts-PcPort)
+
+Native PC port based on a byte-exact matching decompilation. Put your supported `.bin` disc image in the `game` folder and launch. Windows and Linux releases are available.
+
+</details>
+
+<details>
 <summary><strong>Legend of Dragoon</strong></summary>
 
-### ⭐ [Legend of Dragoon Java](https://github.com/Legend-of-Dragoon-Modding/Legend-of-Dragoon-Java)
+### ⭐ [Severed Chains](https://github.com/Legend-of-Dragoon-Modding/Severed-Chains)
 
-Drop discs into `isos` folder  
+Reverse-engineered native recreation with mod support. Drop your disc images into the `isos` folder.  
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
 
 </details>
