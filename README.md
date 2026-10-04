@@ -10,6 +10,7 @@
 
 - [🎮 Nintendo](#-nintendo)
 - [🕹️ PlayStation](#️-playstation)
+- [❎ Xbox](#-xbox)
 - [🌀 SEGA](#-sega)
 - [🌟 Indie](#-indie)
 - [☕ J2ME](#-j2me)
@@ -256,6 +257,24 @@ GUI installer + improvements (4-player controller support, 60+ FPS interpolation
 </details>
 
 <details>
+<summary><strong>Pokémon Snap</strong></summary>
+
+### ⭐ [Snap64Recomp](https://github.com/JackandBeans/Snap64Recomp)
+
+Native N64 static recompilation. Unzip and supply your own ROM on first launch.
+
+</details>
+
+<details>
+<summary><strong>Snowboard Kids 2</strong></summary>
+
+### ⭐ [snowboardkids2-recomp](https://github.com/cdlewis/snowboardkids2-recomp)
+
+Native N64 static recompilation + enhancements and mod support.
+
+</details>
+
+<details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
 ### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
@@ -350,6 +369,91 @@ GUI installer + mods
 
 Drop discs into `isos` folder  
 📖 [Setup Guide](https://legendofdragoon.org/guides/setup-severed-chains/)
+
+</details>
+
+<details>
+<summary><strong>Silent Hill</strong></summary>
+
+### ⭐ [Silent Hill Native PC Port](https://github.com/SlickAmogus/silent-hill-decomp)
+
+Native PC port based on the PlayStation decompilation. Extract the release, add your disc image to `gamedata`, and launch.
+
+</details>
+
+<details>
+<summary><strong>WWF SmackDown! 2: Know Your Role</strong></summary>
+
+### ⭐ [KnowYourRoleRecomp](https://github.com/Comfubar/KnowYourRoleRecomp)
+
+GUI setup from your own CUE/BIN disc image; the game is checked, built, and launched automatically.
+
+</details>
+
+---
+
+## ❎ Xbox
+
+<details>
+<summary><strong>Dead or Alive Xtreme Beach Volleyball</strong></summary>
+
+### ⭐ [doaxvb-re](https://github.com/NoRain211/doaxvb-re)
+
+Native original-Xbox static recompilation. Drag your ISO onto `BuildGame.cmd`, then launch through `Launcher.cmd`.
+
+</details>
+
+<details>
+<summary><strong>The Darkness</strong></summary>
+
+### ⭐ [The-Darkness-Recomp](https://github.com/portingpete/The-Darkness-Recomp)
+
+Native Xbox 360 static recompilation. Extract the release, copy your own game dump into the included `Darkness` folder, and launch.
+
+</details>
+
+<details>
+<summary><strong>Silent Hill: Downpour</strong></summary>
+
+### ⭐ [DownpourRecomp](https://github.com/LittleBitUA/DownpourRecomp)
+
+Native Xbox 360 static recompilation with a launcher and first-run ISO installer.
+
+</details>
+
+<details>
+<summary><strong>Deadly Premonition</strong></summary>
+
+### ⭐ [DPRecomp](https://github.com/LittleBitUA/DPRecomp)
+
+Native Xbox 360 static recompilation with a built-in ISO installer and launcher.
+
+</details>
+
+<details>
+<summary><strong>Tony Hawk's Project 8</strong></summary>
+
+### ⭐ [Project8Recomp](https://github.com/theokyr/Project8Recomp)
+
+Native Xbox 360 static recompilation. The launcher reads your own disc image and sets up the game.
+
+</details>
+
+<details>
+<summary><strong>Spider-Man: Edge of Time</strong></summary>
+
+### ⭐ [Project-2099](https://github.com/GenryTheFox0/Project-2099)
+
+Native Xbox 360 recompilation with a GUI installer, launcher, keyboard/mouse controls, and mod support.
+
+</details>
+
+<details>
+<summary><strong>3 on 3 NHL Arcade</strong></summary>
+
+### ⭐ [3on3NHL-recomp](https://github.com/Wndwsqrrl/3on3NHL-recomp)
+
+Native Xbox 360 static recompilation. Put your XBLA package next to the release and use the launcher to set up and play.
 
 </details>
 
