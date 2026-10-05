@@ -281,6 +281,69 @@ Native N64 static recompilation + enhancements and mod support.
 </details>
 
 <details>
+<summary><strong>Mario Strikers Charged</strong></summary>
+
+### ⭐ [strikers](https://github.com/new-coke/strikers)
+
+Native PC port/recompilation project for Mario Strikers Charged.
+
+</details>
+
+<details>
+<summary><strong>Automobili Lamborghini</strong></summary>
+
+### ⭐ [automobililamborghini-recomp](https://github.com/alondero/automobililamborghini-recomp)
+
+Native N64 static recompilation with ready-to-use releases.
+
+</details>
+
+<details>
+<summary><strong>WCW vs. nWo: World Tour</strong></summary>
+
+### ⭐ [WCWvsNWOWorldTourRecomp](https://github.com/jessetbh/WCWvsNWOWorldTourRecomp)
+
+Native N64 recompilation with an easy end-user setup.
+
+</details>
+
+<details>
+<summary><strong>WCW/nWo Revenge</strong></summary>
+
+### ⭐ [WCWnWoRevengeRecomp](https://github.com/jessetbh/WCWnWoRevengeRecomp)
+
+Native N64 recompilation with an easy end-user setup.
+
+</details>
+
+<details>
+<summary><strong>WWF WrestleMania 2000</strong></summary>
+
+### ⭐ [WWFWrestleMania2000Recomp](https://github.com/jessetbh/WWFWrestleMania2000Recomp)
+
+Native N64 recompilation with an easy end-user setup.
+
+</details>
+
+<details>
+<summary><strong>Virtual Pro Wrestling 64</strong></summary>
+
+### ⭐ [VPW64Recomp](https://github.com/jessetbh/VPW64Recomp)
+
+Native N64 recompilation with an easy end-user setup.
+
+</details>
+
+<details>
+<summary><strong>WWF No Mercy</strong></summary>
+
+### ⭐ [WWFNoMercyRecomp](https://github.com/jessetbh/WWFNoMercyRecomp)
+
+Native N64 recompilation with an easy end-user setup.
+
+</details>
+
+<details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
 ### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
@@ -405,6 +468,33 @@ GUI setup from your own CUE/BIN disc image; the game is checked, built, and laun
 
 </details>
 
+<details>
+<summary><strong>Bloody Roar II</strong></summary>
+
+### ⭐ [BloodyRoar2Recomp](https://github.com/novapowers0/BloodyRoar2Recomp)
+
+Native PlayStation recompilation with ready-to-use Windows/Linux releases.
+
+</details>
+
+<details>
+<summary><strong>King's Field</strong></summary>
+
+### ⭐ [kf1-enhanced](https://github.com/Acranon/kf1-enhanced)
+
+Enhanced native PC port based on reverse engineering of the original PlayStation game.
+
+</details>
+
+<details>
+<summary><strong>Yu-Gi-Oh! Forbidden Memories</strong></summary>
+
+### ⭐ [Yu-Gi-Oh-Forbidden-Memories-Recompiled](https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled)
+
+Native PlayStation recompilation with an end-user-friendly setup.
+
+</details>
+
 ---
 
 ## ❎ Xbox
@@ -469,6 +559,33 @@ Native Xbox 360 recompilation with a GUI installer, launcher, keyboard/mouse con
 ### ⭐ [3on3NHL-recomp](https://github.com/Wndwsqrrl/3on3NHL-recomp)
 
 Native Xbox 360 static recompilation. Put your XBLA package next to the release and use the launcher to set up and play.
+
+</details>
+
+<details>
+<summary><strong>Dead Rising 2: Case Zero</strong></summary>
+
+### ⭐ [Dead_Rising_2_Case_Zero_Xenon_Recomp](https://github.com/wivi514/Dead_Rising_2_Case_Zero_Xenon_Recomp)
+
+Native Xbox 360 recompilation of the standalone Case Zero release.
+
+</details>
+
+<details>
+<summary><strong>Dead Rising 2: Case West</strong></summary>
+
+### ⭐ [Dead_Rising_2_Case_West_Xenon_Recomp](https://github.com/wivi514/Dead_Rising_2_Case_West_Xenon_Recomp)
+
+Native Xbox 360 recompilation of the standalone Case West release.
+
+</details>
+
+<details>
+<summary><strong>The Simpsons Game</strong></summary>
+
+### ⭐ [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp)
+
+Native Xbox 360 recompilation with an installer/launcher for end users.
 
 </details>
 
@@ -579,3 +696,13 @@ A **lost 2006 J2ME game** that never officially released and was considered miss
 Automatically installs and updates N64 recompilations in one place. A must-have if you play multiple N64 recomps.
 
 </details>
+
+<details>
+<summary><strong>AKI Launcher</strong></summary>
+
+### ⭐ [AkiLauncher](https://github.com/jessetbh/AkiLauncher)
+
+Launcher for installing and managing the AKI N64 wrestling recompilations in one place.
+
+</details>
+
