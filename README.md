@@ -112,6 +112,24 @@ Automated launcher/installer
 </details>
 
 <details>
+<summary><strong>The Legend of Zelda: The Wind Waker HD</strong></summary>
+
+### ⭐ [ZeldaWWHDRecomp](https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp)
+
+Native static recompilation of the Wii U version for Windows, Linux, macOS, and Android. Portable releases prepare the game from your own dump on first launch and include a built-in mod manager.
+
+</details>
+
+<details>
+<summary><strong>The Legend of Zelda: The Wind Waker</strong></summary>
+
+### ⭐ [BlueWake](https://github.com/chrissotraidis/bluewake)
+
+Native GameCube static recompilation. The Windows build is ready-made: launch it and select your own USA revision 0 disc image. Also supports iOS/macOS builds, controller support, and mods.
+
+</details>
+
+<details>
 <summary><strong>The Legend of Zelda: Twilight Princess</strong></summary>
 
 ### ⭐ [dusk](https://github.com/TwilitRealm/dusk)
@@ -405,6 +423,15 @@ Native PC port built from the completed Star Fox Adventures decompilation, with 
 </details>
 
 <details>
+<summary><strong>Golden Sun</strong></summary>
+
+### ⭐ [GSRecomp](https://github.com/Shmargus/GSRecomp)
+
+Native Game Boy Advance static recompilation for Windows and Linux. Download the release, launch `GoldenSunLauncher`, select your own ROM, and the bundled compiler prepares the game automatically. Currently a public-testing pre-release, but playable through the ending credits.
+
+</details>
+
+<details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
 ### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
@@ -462,9 +489,14 @@ GUI installer
 <details>
 <summary><strong>Crash Team Racing</strong></summary>
 
-### ⭐ [CTR Native](https://github.com/CTR-tools/ctr-native)
+### ⭐ [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged)
 
-Native PC port based on the CTR decompilation. Windows/Linux releases can load your own NTSC-U retail disc image directly from `assets/ctr-u.bin`.
+PC-focused source port with a native 3D renderer, true widescreen, high-resolution rendering, up to 240 FPS, and additional quality-of-life options.
+
+#### Also see:
+
+- [Crash Team Racing: High Octane](https://github.com/Rinnegatamante/Crash-Team-Racing-High-Octane) – Advanced source port for PC, PS Vita, and web with widescreen, 60 FPS, and gameplay enhancements.
+- [CTR Native](https://github.com/CTR-tools/ctr-native) – Native PC port based on the CTR decompilation.
 
 </details>
 
@@ -665,6 +697,24 @@ Native Xbox 360 recompilation with an installer/launcher for end users.
 ### ⭐ [re:Blue](https://github.com/zolaware/reblue)
 
 Native Xbox 360 static recompilation. The setup wizard asks for your three retail disc images, validates them, extracts the required files, and installs the port. Includes modern resolutions, unlocked frame rates, keyboard/mouse support, and mods.
+
+</details>
+
+<details>
+<summary><strong>Earthworm Jim HD</strong></summary>
+
+### ⭐ [Earthworm Jim HD: Recompiled](https://github.com/TekRantGaming/earthworm-jim-hd-recompiled)
+
+Native Xbox Live Arcade static recompilation for Windows. Download the release, launch it, select or drag in your own XBLA package, and press Play. Includes automatic updates, modern graphics settings, high frame-rate support, remappable controls, and achievements.
+
+</details>
+
+<details>
+<summary><strong>Peter Jackson's King Kong</strong></summary>
+
+### ⭐ [King Kong: Recompiled](https://github.com/TekRantGaming/king-kong-recompiled)
+
+Native Xbox 360 static recompilation for Windows. The launcher installs the game directly from your own disc image and adds modern resolutions, high frame-rate options, keyboard/mouse support, remappable controls, achievements, and automatic updates.
 
 </details>
 
