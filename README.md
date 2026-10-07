@@ -48,6 +48,11 @@ GUI app for compiling ports, applying mods, texture packs, and more.
 Installer with GUI + quality-of-life features like 60 FPS and better camera.  
 Also buildable with [sm64pcbuilder2](https://github.com/Sebastrion/awesome-unofficial-pc-ports#sm64pcbuilder2)
 
+
+### ⭐ [Ghostship](https://github.com/HarbourMasters/Ghostship)
+
+Harbour Masters source port. Extract the release, launch `Ghostship.exe`, and select a supported US or JP ROM. Includes mods, modern graphics backends, and additional platform support.
+
 #### Project(s)
 
 - [n64decomp: sm64](https://github.com/n64decomp/sm64)
@@ -160,6 +165,15 @@ GUI installer + mod support
 </details>
 
 <details>
+<summary><strong>Banjo-Tooie</strong></summary>
+
+### ⭐ [Banjo-Tooie: Recompiled](https://github.com/Vidanox/BanjoTooieRecompiled)
+
+Native N64 static recompilation. Ready-made Windows/Linux releases; select your US ROM on first launch. Playable end-to-end with widescreen and high-refresh-rate support.
+
+</details>
+
+<details>
 <summary><strong>Bomberman 64</strong></summary>
 
 ### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
@@ -216,7 +230,7 @@ GUI installer
 <details>
 <summary><strong>Dinosaur Planet</strong></summary>
 
-### ⭐ [Dinosaur Planet: Recompiled](https://github.com/Francessco121/dino-recomp)
+### ⭐ [Dinosaur Planet: Recompiled](https://github.com/DinosaurPlanetRecomp/dino-recomp)
 
 GUI installer
 
@@ -344,6 +358,53 @@ Native N64 recompilation with an easy end-user setup.
 </details>
 
 <details>
+<summary><strong>Extreme-G</strong></summary>
+
+### ⭐ [Extreme-G: Recompiled](https://gitlab.com/sonicdcer/ExtremeGRecomp)
+
+Native N64 static recompilation with ready-to-use releases, modern display options, and mod support.
+
+</details>
+
+<details>
+<summary><strong>Paper Mario</strong></summary>
+
+### ⭐ [PaperBoat](https://github.com/HarbourMasters/PaperBoat)
+
+Harbour Masters source port based on the Paper Mario decompilation. Download a release, provide a supported ROM, and launch.
+
+</details>
+
+<details>
+<summary><strong>Donkey Kong 64</strong></summary>
+
+### ⭐ [Donkey Kong 64: Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled)
+
+Native N64 static recompilation with plug-and-play releases, high-framerate support, modern menus, and Linux/Steam Deck support.
+
+</details>
+
+<details>
+<summary><strong>Rocket: Robot on Wheels</strong></summary>
+
+### ⭐ [Rocket-R](https://github.com/ThatGuyMcd/Rocket-R)
+
+Native N64 static recompilation for Windows, Linux, Steam Deck, and Android. Launch it and select or drag in your supported US ROM.
+
+</details>
+
+<details>
+<summary><strong>Star Fox Adventures</strong></summary>
+
+### ⭐ [FoxHollow](https://foxhollow.dev/)
+
+Native PC port built from the completed Star Fox Adventures decompilation, with Windows, Linux, macOS, modern display support, and mods.  
+#### Project(s)
+- [foxhollow](https://github.com/JackPriceBurns/foxhollow)
+
+</details>
+
+<details>
 <summary><strong>Animal Crossing (GameCube)</strong></summary>
 
 ### ⭐ [ACGC-PC-Port](https://github.com/flyngmt/ACGC-PC-Port)
@@ -397,6 +458,15 @@ GUI installer
 ---
 
 ## 🕹️ PlayStation
+
+<details>
+<summary><strong>Crash Team Racing</strong></summary>
+
+### ⭐ [CTR Native](https://github.com/CTR-tools/ctr-native)
+
+Native PC port based on the CTR decompilation. Windows/Linux releases can load your own NTSC-U retail disc image directly from `assets/ctr-u.bin`.
+
+</details>
 
 <details>
 <summary><strong>Wipeout</strong></summary>
@@ -586,6 +656,15 @@ Native Xbox 360 recompilation of the standalone Case West release.
 ### ⭐ [TheSimpsonsGameRecomp](https://github.com/YesterMester/TheSimpsonsGameRecomp)
 
 Native Xbox 360 recompilation with an installer/launcher for end users.
+
+</details>
+
+<details>
+<summary><strong>Blue Dragon</strong></summary>
+
+### ⭐ [re:Blue](https://github.com/zolaware/reblue)
+
+Native Xbox 360 static recompilation. The setup wizard asks for your three retail disc images, validates them, extracts the required files, and installs the port. Includes modern resolutions, unlocked frame rates, keyboard/mouse support, and mods.
 
 </details>
 
