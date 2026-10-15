@@ -6,6 +6,16 @@
 
 </div>
 
+<div align="center">
+
+### 🔎 Discover more PC ports with [Quiver Launcher](https://quiverlauncher.com/)
+
+**A searchable, easy-to-browse website and an open-source launcher for community-made PC ports, decompilations, and recompilations.** Discover projects in its catalog, install them, and keep them updated from one place.
+
+[**🌐 Explore the catalog & get the launcher**](https://quiverlauncher.com/)
+
+</div>
+
 ---
 
 ## 📚 Table of Contents
@@ -487,6 +497,15 @@ GUI installer
 ## 🕹️ PlayStation
 
 <details>
+<summary><strong>Castlevania: Symphony of the Night</strong></summary>
+
+### ⭐ [SymphonyRecomp](https://github.com/BlackLabelHQ/SymphonyRecomp)
+
+Native PlayStation recompilation with downloadable releases for modern PCs. **Open beta:** game-breaking bugs may still occur; see the repository for runtime requirements and setup instructions.
+
+</details>
+
+<details>
 <summary><strong>Crash Team Racing</strong></summary>
 
 ### ⭐ [Crash Team Racing: Turbocharged](https://github.com/CameronRedmore/Crash-Team-Racing-Turbocharged)
@@ -600,6 +619,15 @@ Native PlayStation recompilation with an end-user-friendly setup.
 ---
 
 ## ❎ Xbox
+
+<details>
+<summary><strong>Forza Horizon</strong></summary>
+
+### ⭐ [Pinyon Shift](https://github.com/arcanite24/pinyon-shift)
+
+Native recompilation of the Xbox 360 version with a Windows launcher. Select your own supported disc ISO; the launcher verifies it and automatically builds the playable preview. **Preview/WIP:** the initial setup requires Windows build tools, about 25 GB of free space, and can take 20–60 minutes.
+
+</details>
 
 <details>
 <summary><strong>Dead or Alive Xtreme Beach Volleyball</strong></summary>
