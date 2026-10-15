@@ -202,6 +202,19 @@ Native N64 static recompilation. Ready-made Windows/Linux releases; select your 
 </details>
 
 <details>
+<summary><strong>BattleTanx: Global Assault</strong></summary>
+
+### ⭐ [BattleTanx: Global Assault PC Port](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port)
+
+Native Windows and Linux recompilation with a portable Windows release. Supply your own USA Rev 0 ROM; includes modern rendering and keyboard/controller support.
+
+#### Project(s)
+
+- [BattleTanx: Global Assault matching decompilation](https://github.com/TheGh0stShip/BattleTanx-Global-Assault)
+
+</details>
+
+<details>
 <summary><strong>Bomberman 64</strong></summary>
 
 ### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
