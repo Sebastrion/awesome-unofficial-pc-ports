@@ -876,3 +876,12 @@ Launcher for installing and managing the AKI N64 wrestling recompilations in one
 
 </details>
 
+<details>
+<summary><strong>Decomp Buddy</strong></summary>
+
+### [Decomp Buddy](https://github.com/TanookiStudios/decomp-buddy)
+
+Free, open-source installer for unofficial PC ports across every console, on Windows, macOS, Linux and Steam Deck. Checks your own game file, scans downloads for malware, and keeps games and saves up to date.
+
+</details>
+
