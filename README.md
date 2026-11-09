@@ -215,6 +215,19 @@ Native Windows and Linux recompilation with a portable Windows release. Supply y
 </details>
 
 <details>
+<summary><strong>Body Harvest</strong></summary>
+
+### ⭐ [Adam's Ant Farm](https://github.com/LunarLaurus/adams-ant-farm-recomp)
+
+Native N64 static recompilation (N64Recomp, RT64) with widescreen, controller mapping and texture packs. Extract the release, run `bh-launcher`, and select your own ROM (US, or European as a preview). Beta, playable start to finish.
+
+#### Project(s)
+
+- [Body Harvest decompilation](https://github.com/jaytheham/body-harvest-decompilation)
+
+</details>
+
+<details>
 <summary><strong>Bomberman 64</strong></summary>
 
 ### ⭐ [BM64Recomp](https://github.com/RevoSucks/BM64Recomp)
